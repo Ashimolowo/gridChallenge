@@ -58,9 +58,11 @@
 
 }
 .con{
-     //text-align: center;
+    
      display: flex;
      align-items: center;
      justify-content: center;
+     box-shadow: 3px 3px 4px rgba($color: #0a140c, $alpha: .6);
+    
     
 }
