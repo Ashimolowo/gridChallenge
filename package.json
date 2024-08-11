@@ -1,0 +1,18 @@
+{
+  "name": "ashimolowo",
+  "version": "1.0.0",
+  "description": "gridChallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass/main.scss css/style.css"
+  },
+  "keywords": [
+    "Rshaybay"
+  ],
+  "author": "ashimolowo ridwan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
